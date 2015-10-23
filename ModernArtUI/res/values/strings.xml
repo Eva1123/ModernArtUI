@@ -1,0 +1,16 @@
+<resources>
+
+    <string name="app_name">ModernArtUI</string>
+    <string name="startColorOfImageView1_string">990000</string>
+    <string name="endColorOfImageView1_string">bb0000</string>
+    <string name="startColorOfImageView2_string">550000</string>
+    <string name="endColorOfImageView2_string">cc0000</string>
+    <string name="startColorOfImageView3_string">770000</string>
+    <string name="endColorOfImageView3_string">dd0000</string>
+    <string name="startColorOfImageView4_string">110000</string>
+    <string name="endColorOfImageView4_string">aa0000</string>
+    <string name="startColorOfImageView5_string">330000</string>
+    <string name="endColorOfImageView5_string">ee0000</string>
+    
+    <string name="more_info">more information</string>
+</resources>
